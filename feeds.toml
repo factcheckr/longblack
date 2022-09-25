@@ -1,7 +1,7 @@
 [longblack]
 title = "롱블랙"
 url = "https://www.longblack.co/"
-entrySelector = "div[id='main-today-note']"
+entrySelector = "div[id='main-content']"
 titleSelector = "h2.today-note-title"
 linkSelector = "a"
 contentSelector = "p.today-note-desc"
