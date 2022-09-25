@@ -4,9 +4,9 @@ timeout = 180
 [longblack]
 title = "롱블랙"
 url = "https://www.longblack.co/"
-entrySelector = "div[id='main-content']"
+entrySelector = "div div[id='main-today-note']"
 titleSelector = "h2.today-note-title"
 linkSelector = "a"
 contentSelector = "p.today-note-desc"
-waitForSelector = "div[id='main-content']"
+waitForSelector = "div[id='main-today-note']"
 onFail = "stale"
