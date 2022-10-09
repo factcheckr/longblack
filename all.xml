@@ -2,15 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/longblack/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-09T20:31:52.445Z</updated>
+    <updated>2022-10-09T21:24:53.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-10-08T16:37:27.519Z</updated>
-        <content type="html"><![CDATA[B가 마음에 담은 지난주 롱블랙의 문장
-
-"그러기 위해선, 수많은 실패를 받아들일 태도가 중요합니다. 제 20대를 떠올려보니 그래요. 젊은 시기엔 실패와 낙오를 너무 두려워했거든요. 남들보다 경제적 여유가 없어서, 대학을 늦게 가서 더 심했죠. 그래도 버텼어요. ‘<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[내궁 : 맛스타그램으로 시작해, 국내 최초 김치 다이닝을 만들다 (롱블랙)]]></title>
+        <id>https://www.longblack.co/note/443</id>
+        <link href="https://www.longblack.co/note/443"/>
+        <updated>2022-10-09T21:24:52.327Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;롱블랙은 한 분야에서 일가를 이룬 분들을 소개해왔습니다. 지난주 성정기 디자이너의 이야기를 들을 때도, 경외심이 드는 한편 ‘나와는 다른 사람’이라는 생각이 떠나<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
