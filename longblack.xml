@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-10-14T20:36:17.118Z</updated>
+    <updated>2022-10-14T21:26:53.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[황두진 : 서사를 기획하는 건축가, 시대를 읽는 힘을 말하다]]></title>
-        <id>https://www.longblack.co/note/431</id>
-        <link href="https://www.longblack.co/note/431"/>
-        <updated>2022-10-13T16:43:42.208Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;올해가 80일 정도 남았습니다. 연초에 다짐한 공부를 제대로 했는지, 돌아보면 아쉬운 마음입니다. 배워야 할 것들이 쌓여만 가는 느낌이랄까요.심영규 PD에게 고민<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[브랜드보이 : 스스로 브랜드가 되고 싶다면 한 우물을 파라]]></title>
+        <id>https://www.longblack.co/note/451</id>
+        <link href="https://www.longblack.co/note/451"/>
+        <updated>2022-10-14T21:26:52.482Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;너무 바쁘면, 저도 트렌드를 찾기 버겁습니다. 그럴 땐 누군가 정성스레 정리해준 뉴스 클리핑을 참고하고, 뉴스레터를 읽습니다. 그럼 숨통이 좀 트여요. 포모FOM<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
