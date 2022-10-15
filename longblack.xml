@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-10-15T15:31:34.779Z</updated>
+    <updated>2022-10-15T16:38:16.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[브랜드보이 : 스스로 브랜드가 되고 싶다면 한 우물을 파라]]></title>
-        <id>https://www.longblack.co/note/451</id>
-        <link href="https://www.longblack.co/note/451"/>
-        <updated>2022-10-14T21:26:52.482Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;너무 바쁘면, 저도 트렌드를 찾기 버겁습니다. 그럴 땐 누군가 정성스레 정리해준 뉴스 클리핑을 참고하고, 뉴스레터를 읽습니다. 그럼 숨통이 좀 트여요. 포모FOM<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-10-15T16:38:15.243Z</updated>
+        <content type="html"><![CDATA[C의 눈빛을 바꿔준 지난주 롱블랙의 문장
+
+“‘야, 자연스럽게 바뀔 때까지 기다려’하면, 그게 다 프리라이더free rider인 거거든요. 프리라이더가 적으면 적을수록, 변화의 시간이 앞당겨질 거예요. 장애는 언젠가 나의 이야기가 될 수도 있고, 내가 사랑하는 사람<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
