@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/longblack/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-17T14:38:38.816Z</updated>
+    <id>https://www.longblack.co/</id>
+    <title>롱블랙</title>
+    <updated>2022-10-17T14:38:38.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[씨즈캔디 : 100년 된 초콜릿 가게, 워런 버핏이 '꿈의 사업'이라 부르는 이유 (롱블랙)]]></title>
+        <title type="html"><![CDATA[씨즈캔디 : 100년 된 초콜릿 가게, 워런 버핏이 '꿈의 사업'이라 부르는 이유]]></title>
         <id>https://www.longblack.co/note/456</id>
         <link href="https://www.longblack.co/note/456"/>
         <updated>2022-10-17T14:38:38.102Z</updated>
