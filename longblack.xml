@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-02T23:30:47.052Z</updated>
+    <updated>2022-11-03T02:09:33.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/472</id>
         <link href="https://www.longblack.co/note/472"/>
         <updated>2022-11-02T19:20:43.412Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;대부분의 라이프 스타일 잡지는 트렌드를 쫓습니다. 그래서 시간이 지날수록 의미를 잃어요. 반대의 경우도 있습니다. 어떤 잡지는 몇십 년이 지난 과월호가 웃돈이 붙<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;대부분의 라이프스타일 잡지는 트렌드를 좇습니다. 그래서 시간이 지날수록 의미를 잃어요. 반대의 경우도 있습니다. 어떤 잡지는 몇십 년이 지난 과월호가 웃돈이 붙어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
