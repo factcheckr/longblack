@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-05T14:23:23.892Z</updated>
+    <updated>2022-11-05T15:23:55.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[더뉴그레이 : 트렌드에 눈 뜬 시니어, 무신사·커버낫이 주목한 인플루언서가 되다]]></title>
-        <id>https://www.longblack.co/note/479</id>
-        <link href="https://www.longblack.co/note/479"/>
-        <updated>2022-11-03T15:33:18.845Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;언제부턴가 SNS 피드에서 ‘백발의 노신사’들을 자주 만납니다. 매끈하게 빗어 넘긴 포마드 헤어에 검정 뿔테, 흰색 차이나 칼라 셔츠 위에 걸친 네이비색 재킷, <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-11-05T15:23:54.352Z</updated>
+        <content type="html"><![CDATA[B가 메모지에 남겨둔 지난주 롱블랙의 문장
+
+“사람은 어떤 말이 ‘옳다’는 이유로 납득하지 않습니다. 결국 듣는 사람 마음에 가닿는 것이 중요합니다. 듣는 사람이 납득할 때만, 말은 비로소 힘을 가지니까요. 긍정적인 메시지를 전할 때는, 감정이 섞여도 됩니다. 부정<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
