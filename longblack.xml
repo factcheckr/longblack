@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-13T14:22:26.948Z</updated>
+    <updated>2023-02-13T15:23:46.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-02-12T03:23:24.577Z</updated>
-        <content type="html"><![CDATA[K가 메모한 지난주 롱블랙의 문장
-
-“디자이너마다 각자의 미감이 있을 거예요. 하지만 미감은 말 그대로 ‘감각’이에요. 감각에 의존해 디자인하면 공간이 산만해져요. 중요한 건 감각을 ‘구체화’할 수 있는 치밀한 계산과 설득이죠. 내가 설계도에 선을 ‘왜 긋는 건지’<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[미드데이스퀘어 : 비건 초콜릿 브랜드, 광기 어린 콘텐츠로 주목받다]]></title>
+        <id>https://www.longblack.co/note/578</id>
+        <link href="https://www.longblack.co/note/578"/>
+        <updated>2023-02-13T15:23:45.589Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;오늘은 밸런타인데이예요. 초콜릿은 못 받았어요. 이 공허함은… 초콜릿 브랜드 공부로 달래야겠어요! 제가 발견한 건 미드데이스퀘어Mid-day Squares란 브랜<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
